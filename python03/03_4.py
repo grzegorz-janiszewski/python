@@ -15,7 +15,7 @@ a to znowu. Nie jest Python
 moze jednak jest
 ale przeciez to jednak python jest
 python.
-jednak TO JUZ NIE
+Jednak TO JUZ NIE
 Python to nie jest
 '''
 
