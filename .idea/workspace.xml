@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="797a565a-e51e-44ad-994a-6ce4a1d66449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python03/03_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python03/03_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python03/03_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python03/03_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python03/03_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python03/03_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python03/03_regrep.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python02/02_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python02/02_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,11 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python03/03_6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="8" column="55" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -117,6 +118,7 @@
         <option value="$PROJECT_DIR$/python03/03_4.py" />
         <option value="$PROJECT_DIR$/python03/03_5.py" />
         <option value="$PROJECT_DIR$/python03/03_6.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -138,11 +140,6 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="python03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -607,19 +604,26 @@
       <option name="project" value="LOCAL" />
       <updated>1551797917145</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="03">
+      <created>1551871602713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551871602713</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1213" height="999" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09831933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09831933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26436782" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26436782" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -637,7 +641,8 @@
     <MESSAGE value="inn" />
     <MESSAGE value="02" />
     <MESSAGE value="02 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="02 4" />
+    <MESSAGE value="03" />
+    <option name="LAST_COMMIT_MESSAGE" value="03" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python01/4.py">
@@ -770,6 +775,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="8" column="55" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
