@@ -36,4 +36,4 @@ if __name__ == "__main__":
     for n in tabliczki:
         n.join()
 
-    print("Czas:", "{:.2f}".format( time.time() - czas))
+    print("Calkowity czas:", "{:.2f}".format( time.time() - czas))
