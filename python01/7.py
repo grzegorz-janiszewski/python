@@ -48,7 +48,6 @@ tree.write("pracownicy.xml")
 zpliku = ET.parse("pracownicy.xml")
 root = zpliku.getroot()
 
-
 print("Dane odczytane z XML")
 for x in root:
     print(x.attrib['imie'], x.attrib['nazwisko'])
